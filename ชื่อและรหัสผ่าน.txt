@@ -3,6 +3,11 @@
 ➖
 {ชื่อและรหัสผ่าน}
 ➖
+TH_DTAC_SC
+TH_TRUE_SC
+TH_TRUE_FL
+กดเชื่อมต่อได้เลยคับ
+➖
 TH_KIRZ_VIP_5
 ชื่อ PUI
 รหัส 1234
