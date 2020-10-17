@@ -3,6 +3,10 @@
 ➖
 {ชื่อและรหัสผ่าน}
 ➖
+TH_DTAC_SC_27_11
+TH_TRUE_SC_27_11
+กดเชื่อมต่อได้เลยคับ
+➖
 TH_DTAC_SC
 TH_TRUE_SC
 TH_TRUE_FL
