@@ -15,7 +15,6 @@ TH_KIRZ_VIP_5
 ➖
 TH_DTAC_SC
 TH_TRUE_SC
-TH_TRUE_FL
 กดเชื่อมต่อได้เลยคับ
 ➖
 TH_DTAC_SC_27_11
