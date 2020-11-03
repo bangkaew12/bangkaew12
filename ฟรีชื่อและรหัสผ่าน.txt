@@ -3,17 +3,17 @@
 ➖
 {ชื่อและรหัสผ่าน}
 ➖⬇️⬇️⬇️⬇️
-TH_CAT_DTAC_SC_5
-TH_CAT_TRUE_SC_5
-ชื่อ PUI13
-รหัส 13
-ดับ:19/11/2020
+TH_CAT_DTAC
+TH_CAT_TRUE
+ชื่อ 
+รหัส 
+ดับ:
 ➖
-TH_KIRZ_DTAC_SC_5
-TH_KIRZ_TRUE_SC_5
-ชื่อ: PUI
-รหัส: 1234
-ดับ: 4/11/2020
+TH_KIRZ_DTAC
+TH_KIRZ_TRUE
+ชื่อ: 
+รหัส: 
+ดับ: 
 ➖
 TH_DTAC_SC
 TH_TRUE_SC
